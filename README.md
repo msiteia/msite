@@ -1,7 +1,7 @@
 # 🚀 Msite
 
 <p align="center">
-  <img src="https://msite.ia.br/assets/logo.png" alt="Msite" width="180">
+  <img src="https://msite.ia.br/assets/msite-logo-header-mobile-220x72.png" alt="Msite" width="180">
 </p>
 
 <p align="center">
